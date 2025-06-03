@@ -7,11 +7,12 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - RadioCanadaDisplay.glyphs
-  - RadioCanadaDisplay-Italic.glyphs
+  - Vinculeis.glyphs
+  - Vinculeis-Italic.glyphs
+  -Vinculeis-Display-Black.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "Radio Canada Display"
+familyName: "Vinculeis"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -29,7 +30,7 @@ familyName: "Radio Canada Display"
 # buildVariable: true
 # buildStatic: true
 # buildTTF: true
-buildOTF: false
+buildOTF: true
 # buildSmallCap: false
 
 # The next flags control autohinting.
@@ -63,7 +64,7 @@ buildOTF: false
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  RadioCanadaDisplay[wght].ttf:
+  Vinculeis[wght].otf:
   - name: Weight
     tag: wght
     values:
@@ -84,7 +85,7 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  RadioCanadaDisplay-Italic[wght].ttf:
+  Vinculeis-Italic[wght].otf:
   - name: Weight
     tag: wght
     values:
@@ -103,3 +104,11 @@ stat:
     values:
     - name: Italic
       value: 1
+    Vinculeis-DusplayBlack[wght].otf:
+  - name: Weight
+    tag: wght
+    values:
+    - name: Black
+      value: 900
+      linkedValue: 900
+      flags: 2
