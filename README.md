@@ -59,16 +59,22 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Vinculeis is a contemporary, inclusive sans-serif with support for gender-neutral Portuguese and a bold Display Black style.
 
-Don't hesitate to create images!
-
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/vinculeis.png)
+![Sample Image](documentation/vinculeis2.png)
+![Sample Image](documentation/vinculeis3.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+Vinculeis is a contemporary sans-serif typeface designed with accessibility and inclusive communication at its core. The name is an anagram of “Inclusive,” reflecting its origin: a thoughtful adaptation of the Inclusive Sans font. While preserving the clarity and readability essential to accessible typography, Vinculeis introduces subtle stylistic updates for a more contemporary feel.
+
+Created within the framework of the project Práticas Coletivas em Design Queer (Collective Practices in Queer Design), Vinculeis embodies reflections on inclusive practices, dissident bodies, and non-normative subjectivities. The typeface includes custom ligatures and supportive glyphs for gender-neutral and non-binary language in Portuguese, expanding the possibilities for inclusive writing.
+
+Vinculeis comes in multiple styles, including a specially designed Display Black version optimized for large-scale use such as posters and headlines.
+
+With its blend of utility and expression, Vinculeis is ideal for designers seeking a typeface that supports both clarity and social consciousness.
+
 
 ## Building
 
@@ -81,16 +87,6 @@ If you want to build fonts manually on your own computer:
 * `make proof` will generate HTML proof files.
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
-
-## Changelog
-
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
 
 ## License
 
