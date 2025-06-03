@@ -17,18 +17,6 @@ Vinculeis comes in multiple styles, including a specially designed Display Black
 With its blend of utility and expression, Vinculeis is ideal for designers seeking a typeface that supports both clarity and social consciousness.
 
 
-## Building
-
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
-
-If you want to build fonts manually on your own computer:
-
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
-
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
