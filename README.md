@@ -1,4 +1,4 @@
-# Vinculeis
+# Vinculeis Sans
 
 Vinculeis is a contemporary sans-serif typeface designed with accessibility and inclusive communication at its core. The name is an anagram of “Inclusive,” reflecting its origin: a thoughtful adaptation of the Inclusive Sans font. While preserving the clarity and readability essential to accessible typography, Vinculeis introduces subtle stylistic updates for a more contemporary feel.
 
