@@ -1,0 +1,43 @@
+FONTLOG for Vinculeis Sans
+
+This file provides detailed information on the modifications made to the original font, Inclusive Sans, in accordance with the SIL Open Font License (OFL).
+
+––––––––––––––––––––––––––––––
+
+Vinculeis Sans is a modified version of Inclusive Sans, originally designed by Olivia King.
+
+Modifications by Lau Daviña, 2026.
+
+––––––––––––––––––––––––––––––
+
+1 April 2026 — Version 1.0
+
+INITIAL RELEASE
+
+Vinculeis Sans emerges from a desire to create subtle shifts in tone, rhythm and relation between characters, exploring typography as a field of connection.
+
+The modifications focus on small but meaningful interventions:
+
+• Terminals  
+Terminals have been redrawn to soften or slightly extend their endings, introducing a sense of openness and continuity. In some cases, cuts become less abrupt, suggesting a gesture that does not fully close.
+
+• Descenders  
+Descenders have been adjusted to alter vertical rhythm and balance. Some characters extend further down, creating a more elastic baseline interaction and emphasizing difference within repetition.
+
+• Weight expansion — Black  
+A Black weight has been added to the family, introducing a denser and more assertive presence. This expansion explores contrast not only in thickness, but in how characters occupy space, relate to each other, and produce rhythm at larger visual intensities.
+
+• Glyph adjustments  
+Selected glyphs were refined to reinforce internal coherence after the changes in terminals, descenders, and weight expansion, maintaining legibility while allowing for small deviations.
+
+• Expanded character set  
+New glyphs have been added, including additional characters, symbols and emojis. These elements extend the expressive range of the typeface, introducing informal, affective and non-verbal layers into the typographic system.
+
+Rather than a complete redesign, Vinculeis Sans operates through proximity and deviation — maintaining the structure of the original while introducing micro-transformations that affect how the text is perceived and felt.
+
+––––––––––––––––––––––––––––––
+
+This font software is based on Inclusive Sans.
+
+Original source:
+https://github.com/LivKing/Inclusive-Sans
